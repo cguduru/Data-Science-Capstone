@@ -1,0 +1,12 @@
+name: cdsc
+title: cdsc
+username:
+account: cguduru
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 252382
+bundleId: 1154916
+url: https://cguduru.shinyapps.io/cdsc/
+when: 1514565803.11734
+asMultiple: FALSE
+asStatic: FALSE
